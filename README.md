@@ -3,7 +3,7 @@
 To understand the Akka concepts that are the basis for this example, see [Development Process](https://doc.akka.io/concepts/development-process.html) in the documentation.
 
 This project contains the skeleton to create an Akka service using the Kotlin language. To understand more about these 
-components, see [Developing services](https://doc.akka.io/java/index.html).
+components, see [Developing services](https://doc.akka.io/sdk/index.html).
 
 You are supposed to change `empty-service` and the package name `com.example` to your own names.
 
